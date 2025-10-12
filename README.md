@@ -1,5 +1,5 @@
-# MovieRec
-a recommender system that suggests movies (or songs) to users based on data such as ratings, genres, or similarity
+# CinePick
+a recommender system that suggests movies to users based on data such as ratings, genres, or similarity
 
 # Demo Steps
 Download the Following link to access the Dataset:
