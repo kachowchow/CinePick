@@ -64,9 +64,6 @@ def run_recommender():
 
             search_movies(user_input)
             exact_title = input("\nEnter the exact movie title for recommendations: ")
-            if exact_title.lower() == 'exit':
-                  print("Thank you for using CinePick. Goodbye!")
-                  break
 
             recommendations = recommend_movies(exact_title)
             if len(recommendations) > 0:
