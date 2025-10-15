@@ -14,8 +14,8 @@ a recommender system that suggests movies to users based on data such as ratings
 7. Type exit to quit the program.
 
 # Files
-content_based.py - uses Movie genres to recommend similar movies 
-\ncollaborative.py - uses Movie ratings to recommend movies using collaborative filtering
-\ndata/ - Contains the dataset files: movies.csv, ratings.csv
+- content_based.py - uses Movie genres to recommend similar movies 
+- collaborative.py - uses Movie ratings to recommend movies using collaborative filtering
+- data/ - Contains the dataset files: movies.csv, ratings.csv
 
 Last Update: 10/11/2025
